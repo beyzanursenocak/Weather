@@ -1,3 +1,5 @@
+LIVE link: https://turkey-weather-forecastt.netlify.app/
+
 # 🌤️ Türkiye Hava Durumu Uygulaması
 
 Vue.js ile geliştirilmiş modern ve kullanıcı dostu hava durumu uygulaması. Türkiye'deki şehirler için mevcut hava durumu, saatlik ve 5 günlük tahmin bilgilerini sunar.
